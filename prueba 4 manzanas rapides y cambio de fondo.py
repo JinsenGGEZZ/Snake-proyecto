@@ -42,7 +42,7 @@ reloj = pygame.time.Clock()
 serp_tamano = 20
 #variable tiempo reloj
 CPS = 10
-VPS = 1
+
 
 #fondo letra y tamaño
 font = pygame.font.SysFont("arial.ttf", 30)
